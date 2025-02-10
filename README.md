@@ -22,7 +22,7 @@
 </td>
 <td><a href="https://www.instagram.com/_.heleno/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/heleno-junior-0b1478350/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https:/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
 </tr>
@@ -68,4 +68,4 @@
 
 -----
 
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=TiagoBoavAmaral"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=HelenoJuniorFernandes"/>
